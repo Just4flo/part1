@@ -67,9 +67,8 @@ export default function Login() {
                 <h2 className="text-2xl font-semibold mb-6 text-center text-gray-800">Login</h2>
                     <h2 text-center>admin</h2>
                     <h2>email : yp03634@gmail.com pw : yudha0908</h2>
-                    <h2>email : y@gmail.com pw : yudha0908</h2>
                     <h2 text-center>pelanggan</h2>
-
+                    <h2>email : y@gmail.com pw : yudha0908</h2>
                 <label htmlFor="email" className="block mb-1 font-medium text-gray-700">
                     Email
                 </label>
