@@ -65,10 +65,10 @@ export default function Login() {
                 className="bg-white p-8 rounded-lg shadow-lg max-w-md w-full"
             >
                 <h2 className="text-2xl font-semibold mb-6 text-center text-gray-800">Login</h2>
-                    <h2 text-center text-black>admin</h2>
-                    <h2 text-black>email : yp03634@gmail.com pw : yudha0908</h2>
-                    <h2 text-center text-black>pelanggan</h2>
-                    <h2 text-black>email : y@gmail.com pw : yudha0908</h2>
+                    <h2 classname="text-center text-black">admin</h2>
+                    <h2 classname="text-black">email : yp03634@gmail.com pw : yudha0908</h2>
+                    <h2 classname="text-center text-black">pelanggan</h2>
+                    <h2 classname="text-black">email : y@gmail.com pw : yudha0908</h2>
                 <label htmlFor="email" className="block mb-1 font-medium text-gray-700">
                     Email
                 </label>
